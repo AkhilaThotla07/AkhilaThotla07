@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @AkhilaThotla07
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning frontend development...
+# Hi there 👋, I'm Akhila
 
+- Computer Science Student
+- 💻 Passionate about Software Development
+- Currently learning Java, OOP, Collections and Data Structures
+- Interested in Frontend, Backend and Full Stack Development
+- Building projects to improve problem-solving skills
 
-<!---
-AkhilaThotla07/AkhilaThotla07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Technologies & Tools
+- Java
+- Object Oriented Programming (OOP)
+- Collections Framework
+- Git & GitHub
+
+## 📌 Goals
+- Strengthen Data Structures and Algorithms
+- Build real-world software projects
+- Become a skilled Software Developer
+
+---
+
+⭐ Check out my repositories to see the projects I'm working on!
