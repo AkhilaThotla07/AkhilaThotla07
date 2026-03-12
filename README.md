@@ -13,7 +13,6 @@
 - Git & GitHub
 
 ## 📌 Goals
-- Strengthen Data Structures and Algorithms
 - Build real-world software projects
 - Become a skilled Software Developer
 
