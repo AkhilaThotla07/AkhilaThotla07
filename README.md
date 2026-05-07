@@ -10,6 +10,9 @@
 - Java
 - Object Oriented Programming (OOP)
 - Collections Framework
+- JDBC,Servlets,JSP
+- Hibernate
+- Spring
 - Git & GitHub
 
 ## 📌 Goals
@@ -17,16 +20,11 @@
 - Become a skilled Software Developer
 
 ---
-# Hi there 👋 I'm Akhila
 
-💻 Aspiring Software Developer  
-🌱 Currently learning Java and Web Development  
-🚀 Interested in Backend Development and Problem Solving  
 
-## 🛠️ Skills
-Java | HTML | CSS | JavaScript | Git | SQL
 
 ## 🚀 Projects
+- Compliant Management System | Tech Stack : JDBC|JSP|CSS
 - Online Car Rental System  | Tech Stack : HTML | CSS | JavaScript | PHP | MySQL
 - Recipe Finder Web Application
 
