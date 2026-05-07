@@ -19,10 +19,6 @@
 - Build real-world software projects
 - Become a skilled Software Developer
 
----
-
-
-
 ## 🚀 Projects
 - Compliant Management System | Tech Stack : JDBC|JSP|CSS
 - Online Car Rental System  | Tech Stack : HTML | CSS | JavaScript | PHP | MySQL
